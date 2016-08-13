@@ -9,16 +9,16 @@
     "bower",
     "babel"
   ],
-  "homepage": "http://aurelia.io",
+  "homepage": "https://github.com/chris-dickson/aurelia-bower",
   "bugs": {
-    "url": "https://github.com/aurelia/skeleton-navigation/issues"
+    "url": "https://github.com/chris-dickson/aurelia-bower/issues"
   },
   "license": "MIT",
-  "author": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)",
-  "main": "dist/main.js",
+  "author": "Chris Dickson (cdickson@uncharted.software",
+  "main": "dist/aurelia-bower.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aurelia/skeleton-navigation"
+    "url": "https://github.com/chris-dickson/aurelia-bower"
   },
   "scripts": {
     "postinstall": "bower install"
