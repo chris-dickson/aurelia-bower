@@ -1,4 +1,7 @@
 # aurelia-bower
+
+A simpler way to build an Aurelia application using Bower instead of JSPM/Webpack
+
 ## Installation
 Development dependencies are managed using npm.
   
